@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hayden-donnelly
-- 👀 I’m interested in machine learning and neuroscience
-- 🌱 I’m currently building a neural terrain generator
+- 👀 I'm interested in machine learning and neuroscience
+- 🌱 Currently building a neural terrain generator
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/hayden-donnelly/) or e-mail me at donnellyhd@outlook.com
 
 <!---
